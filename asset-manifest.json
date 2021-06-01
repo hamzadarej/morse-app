@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hamzadarej/morse-app.git/static/css/main.4525dd6e.chunk.css",
+    "main.js": "/hamzadarej/morse-app.git/static/js/main.07e61c17.chunk.js",
+    "main.js.map": "/hamzadarej/morse-app.git/static/js/main.07e61c17.chunk.js.map",
+    "runtime-main.js": "/hamzadarej/morse-app.git/static/js/runtime-main.bd3e9cb0.js",
+    "runtime-main.js.map": "/hamzadarej/morse-app.git/static/js/runtime-main.bd3e9cb0.js.map",
+    "static/js/2.bf5b83c6.chunk.js": "/hamzadarej/morse-app.git/static/js/2.bf5b83c6.chunk.js",
+    "static/js/2.bf5b83c6.chunk.js.map": "/hamzadarej/morse-app.git/static/js/2.bf5b83c6.chunk.js.map",
+    "index.html": "/hamzadarej/morse-app.git/index.html",
+    "static/css/main.4525dd6e.chunk.css.map": "/hamzadarej/morse-app.git/static/css/main.4525dd6e.chunk.css.map",
+    "static/js/2.bf5b83c6.chunk.js.LICENSE.txt": "/hamzadarej/morse-app.git/static/js/2.bf5b83c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3e9cb0.js",
+    "static/js/2.bf5b83c6.chunk.js",
+    "static/css/main.4525dd6e.chunk.css",
+    "static/js/main.07e61c17.chunk.js"
+  ]
+}
