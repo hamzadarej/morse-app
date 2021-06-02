@@ -9,7 +9,6 @@ const morseCode = {
   8: "___..",
   9: "____.",
   0: "_____",
-
   a: "._",
   b: "_...",
   c: "_._.",
@@ -36,7 +35,6 @@ const morseCode = {
   x: "_.._",
   y: "_.__",
   z: "__..",
-
   ".": "._._._",
   ",": "__..__",
   "?": "..__..",
@@ -58,11 +56,13 @@ const morseCode = {
 };
 const Results = (props) => {
   let text = props.userInput.toLowerCase().split("");
+  let result;
   if (!text.length == 0) {
-    return text.map((a) => morseCode[a]);
+    result= text.map((a) => morseCode[a]);
   } else {
-    return "enter something";
+    result= "enter something";
   }
+  return <p>{result}</p>
 };
 
 export default Results;
